@@ -1,0 +1,9 @@
+Project: Git and GitHub Collaboration Demo
+
+This project demonstrates:
+1. Git repository initialization
+2. Branch creation and switching
+3. Version control
+4. GitHub collaboration
+5. Pull request and merging
+
